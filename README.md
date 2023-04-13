@@ -79,14 +79,14 @@ Les commandes suivantes doivent être exécutées dans une fenêtre CMD, Bash ou
 Pour cette étape, vous avez besoin de Git installé, mais vous pouvez simplement télécharger le fichier zip à la place en cliquant sur le bouton en haut de cette page ☝️
 
 ```
-git clone https://github.com/Torantulino/Auto-GPT.git
+git clone https://github.com/mikiane/AutoGPT-FR
 ```
 
 2. Accédez au répertoire du projet :
 (Tapez ceci dans votre fenêtre CMD, votre objectif est de naviguer dans la fenêtre CMD vers le dépôt que vous venez de télécharger)
 
 ```
-cd 'Auto-GPT'
+cd 'Auto-GPT-FR'
 ```
 
 3. Installez les dépendances requises :
