@@ -14,17 +14,9 @@
     <a href="https://discord.gg/PQ7VX6TY4t"><img src="https://dcbadge.vercel.app/api/server/PQ7VX6TY4t?style=flat" alt="Discord"></a>
     <a href="https://github.com/Torantulino/Auto-GPT/actions/workflows/unit_tests.yml"><img src="https://github.com/Torantulino/Auto-GPT/actions/workflows/unit_tests.yml/badge.svg" alt="Tests unitaires"></a>
 
-    <p>Auto-GPT est une application open-source expérimentale mettant en valeur les capacités du modèle de langage GPT-4. Ce programme, piloté par GPT-4, relie les "pensées" LLM pour atteindre de manière autonome l'objectif que vous avez défini. En tant que l'un des premiers exemples de GPT-4 fonctionnant en totale autonomie, Auto-GPT repousse les limites de ce qui est possible avec l'IA.</p>
+Auto-GPT est une application open-source expérimentale mettant en valeur les capacités du modèle de langage GPT-4. Ce programme, piloté par GPT-4, relie les "pensées" LLM pour atteindre de manière autonome l'objectif que vous avez défini. En tant que l'un des premiers exemples de GPT-4 fonctionnant en totale autonomie, Auto-GPT repousse les limites de ce qui est possible avec l'IA.</p>
 
-    <h2>Démonstration (30/03/2023) :</h2>
-    <video src="https://user-images.githubusercontent.com/22963551/228855501-2f5777cf-755b-4407-a643-c7299e5b6419.mp4" controls></video>
-
-    <h2 align="center">💖 Aidez à financer le développement d'Auto-GPT 💖</h2>
-    <p align="center">
-    Si vous pouvez offrir un café, vous pouvez aider à couvrir les coûts d'API pour développer Auto-GPT et repousser les limites de l'IA totalement autonome !
-    Une journée complète de développement peut facilement coûter jusqu'à 20 $ en coûts d'API, ce qui est assez limitant pour un projet gratuit.
-    Votre soutien est grandement apprécié
-    </p>
+    
 
 
 
