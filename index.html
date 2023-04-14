@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Python Console Output</title>
+</head>
+<body>
+    <textarea id="consoleOutput" rows="20" cols="80" readonly></textarea>
+    <br>
+    <input type="text" id="userInput" placeholder="Enter your input">
+    <button onclick="sendInput()">Send</button>
+
+    <script>
+        const consoleOutput = document.getElementById("consoleOutput");
+        const userInput = document.getElementById("userInput");
+        const socket = new WebSocket("0.0.0.0:8888");
+
+        socket.onmessage = (event) => {
+            consoleOutput.value += event.data + "\n";
+        };
+
+        function sendInput() {
+            const input = userInput.value;
+            userInput.value = "";
+            socket.send(input);
+        }
+    </script>
+</body>
+</html>
